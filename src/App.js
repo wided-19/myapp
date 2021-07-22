@@ -16,7 +16,7 @@ function App() {
         <table class="elements"  > 
       <Row>
       
-          <Col md>
+          <Col >
             <tr>
             <Form.Label>First name</Form.Label>
             </tr>
@@ -25,7 +25,7 @@ function App() {
             </td>
             
           </Col>
-          <Col md>
+          <Col >
             <tr>
             <Form.Label>Last name</Form.Label>
             </tr>
